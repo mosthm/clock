@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="stop_watch">Stop Watch</string>
+    <string name="count_down">Count Down</string>
+</resources>
